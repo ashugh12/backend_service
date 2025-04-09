@@ -57,6 +57,10 @@ def predict():
     })
 
 
+@app.route('/', methods=['GET'])
+def index():
+    return jsonify({"message": "Welcome to the Saliency Prediction API!"})
+
 
 
 if __name__ == "__main__":
