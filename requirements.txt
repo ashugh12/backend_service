@@ -101,7 +101,7 @@ pydantic_core==2.27.2
 pyee==11.1.1
 pylint==2.14.4
 pyparsing==3.2.2
-pyppeteer==2.0.0
+# pyppeteer==2.0.0
 pyquery==2.0.1
 pytest==7.1.3
 python-bitcoinrpc==1.0
@@ -136,7 +136,7 @@ tzdata==2025.2
 ultralytics==8.3.98
 ultralytics-thop==2.0.14
 uritemplate==4.1.1
-urllib3==2.3.0
+# urllib3==2.3.0
 uvicorn==0.34.0
 w3lib==2.3.1
 websocket-client==1.8.0
